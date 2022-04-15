@@ -1,1 +1,6 @@
-
+ result = {        
+        "DateTest": "date",
+        "Lastname":"lastname",
+        "Name": "name",
+        "UID": "UID"
+        }
